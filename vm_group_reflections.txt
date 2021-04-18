@@ -1,0 +1,92 @@
+Project 3: Group Reflections Document
+Due Friday, April 9, 2021, at 10:59p
+Please submit one per group to the "Project 3 Reflections" assignment on Canvas
+
+
+Names: Carson Saldanha, Charles Cao, Eric Tu, Sumedh Chilakamarri
+EIDs: ccs3424, cbc2776, ekt452, ssc2536
+Group Name: I GOT VM I CANT TALK RN
+If a genie granted me a wish, I would wish for...
+more wishes,
+all As,
+more genies,
+all As
+
+
+
+
+What did your group do well this week?
+Thanks to the data structures design document, we were able to plan out 
+many parts of the implementation early. This greatly helped us in setting 
+up the foundations for our project in regards to the frame table, 
+supplementary page table, and swap table structures.
+
+
+
+
+
+
+
+What do you not do well?
+We started on the data structures assignment a little late, mainly due to
+us using slip days on the previous project and having exams for some
+other classes. Therefore, our time management was a little hindered and we 
+ended up starting our implementation a little late.
+
+
+
+
+
+
+
+
+How could you improve?
+We will make sure to devote an adequate amount of time to the project 
+immediately after the exam and over the course of next week to get up to 
+pace and finish it.
+
+
+
+
+
+
+
+How well did your group communicate?  Describe any problems and potential 
+solutions.
+Communication as a group has gone smoothly. We've responded to messages in a 
+timely manner. We haven't really notice any major problems with our 
+communication. Overall, it's been pretty good.
+
+
+
+
+
+
+
+How well did you share programming time and collaborate on the design?  
+Describe any problems and potential solutions.
+We think design ideas and implementations were split evenly among the group 
+members without any problems.
+
+
+
+
+
+
+
+What are your next steps?
+Our next steps are to meet more regularly in order to make substantial 
+progress on the project. We also plan on looking for more information about 
+virtual memory concepts from any lectures as well as make more use of Piazza 
+if we hit any roadblocks.
+
+
+
+
+
+
+
+When are you meeting next week?
+Tuesday around 12pm
+Wednesday around 1pm
+Thursday around 12pm

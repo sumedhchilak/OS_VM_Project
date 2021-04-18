@@ -1,0 +1,143 @@
+Project 3: Group Planning and Reflections Document
+Due Friday, April 2, 2021, at 10:59p
+Please submit one per group to the “Project 3 Reflections” assignment on Canvas
+
+
+Names: Carson Saldanha, Charles Cao, Eric Tu, Sumedh Chilakamarri
+EIDs: ccs3424, cbc2776, ekt452, ssc2536
+Group Name: I GOT VM I CANT TALK RN
+My favorite group is... this group! x4
+
+
+Link to your UTCS GitLab repository for this project:
+https://gitlab.cs.utexas.edu/marauders/project-3-virtual-memory
+
+
+
+
+
+
+How are you contacting each other?
+We have a Discord server set up and have our phone numbers shared
+with each other.
+
+
+
+
+
+
+What tools are you using for remote collaboration?
+We're using Discord for sharing any information as well as calling.
+We're also using VS Code's Live Share extension for real-time
+collaboration.
+
+
+
+
+
+
+
+What are your goals for completing this project?
+Our goals for this project are to use the knowledge that we learned about Pintos in the
+previous two projects and apply it to this project. We also hope to get a greater
+understanding of how virtual memory works within an operating systems environment. On a
+grading standpoint, we also hope to be able to pass all of the test cases.
+
+
+
+
+
+
+
+
+When did your group meet this week?
+Thursday around 10pm
+
+
+
+
+
+
+
+What is the current status of your project?
+We need to wrap up our data structures design and begin implementing
+the project.
+
+
+
+
+
+
+
+What did your group do well this week?
+I think we did a good job of meeting up and getting connected with one
+another before starting the project. Good communication is essential
+from the get-go, so we set up a Discord server to discuss the project.
+
+
+
+
+
+
+
+What do your group not do well?
+We started on the data structures assignment a little late, mainly due to
+us using slip days on the previous project and having exams for some
+other classes. Therefore, our time management was a little hindered.
+
+
+
+
+
+
+
+How could your group improve?
+We will make sure to devote an adequate amount of time to the project over the
+weekend and over the course of next week to get up to pace.
+
+
+
+
+
+
+
+How well did your group communicate?  Describe any problems and potential solutions.
+Communication as a group has gone smoothly. We've responded to messages in a timely manner.
+We haven't really notice any major problems with our communication. Overall, it's been pretty good.
+
+
+
+
+
+
+
+
+How well did your group share programming time and collaborate on the design?  Describe any problems and potential solutions.
+We think design ideas and implementations were split evenly among the group members
+without any problems.
+
+
+
+
+
+
+
+
+What are your next steps?
+Our next steps are to meet more regularly in order to implement the groundwork of the
+project, like our data structure and paging. We also plan on looking for more information
+about virtual memory concepts from any lectures as well as make more use of Piazza if we
+hit any roadblocks.
+
+
+
+
+
+
+
+
+When are you meeting next week?
+Saturday around 12pm
+Sunday around 4pm
+Monday around 8pm
+
